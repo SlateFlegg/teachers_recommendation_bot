@@ -1,0 +1,9 @@
+.idea/*
+__pycache__/*
+from_machine/*
+person_list.json
+questions.xlsx
+recommendation.xlsx
+recommendation_bot.py
+questionclass_to_json.py
+config.py
